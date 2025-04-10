@@ -1,0 +1,15 @@
+# Ignore all .pth files (PyTorch model weights)
+*.pth
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Ignore specific folders
+ftw-baselines/
+FTW/

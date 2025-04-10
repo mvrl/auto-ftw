@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/p.vinh/miniconda3/envs/auto-ftw/bin/python3",
+    "python.analysis.extraPaths": [
+        "/home/p.vinh/miniconda3/envs/auto-ftw/lib/python3.12/site-packages"
+    ]
+}
